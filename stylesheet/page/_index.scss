@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(139, 241, 155);
+    height: 100%;
+
+    .city{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .contain{
+     display: flex;       
+    }
+    .p1-city{
+    height: 600px;
+    word-wrap: break-word;
+
+}
+.p1socute{
+    color: red;
+    word-wrap: break-word;
+
+}
+}
